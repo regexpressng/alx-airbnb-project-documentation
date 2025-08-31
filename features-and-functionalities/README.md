@@ -1,1 +1,1 @@
-![Description of image](Airbnb clone-Page-2.drawio.png).
+![Description of image](Airbnb-clone-Page-2.drawio.png)

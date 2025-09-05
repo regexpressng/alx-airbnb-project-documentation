@@ -26,4 +26,4 @@ The goal of this use case diagram is to provide a high-level visualization of:
 ## 🗂️ Diagram
 The use case diagram was created using **[Draw.io](https://draw.io/)** and exported as a PNG.
 
-📌 File: [`airbnb-use-c]()
+📌 File: [`airbnb-use-c](Airbnb_clone_use_case.jpg)

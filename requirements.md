@@ -68,3 +68,4 @@
   - `GET /api/admin/bookings` → List all bookings
 - **Payment Management**
   - `GET /api/admin/payments` → List all payments
+..
